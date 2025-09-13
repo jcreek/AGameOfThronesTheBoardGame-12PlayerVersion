@@ -17,7 +17,7 @@ Each house needs these printed in their colour (see [the README](./README.md#gen
 
 Each house needs 20 printed in their colour (see [the README](./README.md#general-information) for the colours).
 
-- 20 [power tokens](./3d-printing/power-token.stl)
+- 20 [power tokens](./3d-printing/other/power-token.stl)
 
 ### Influence Tokens
 
@@ -33,13 +33,13 @@ You will need to print one of each, per house, in that house's colour (see [the 
 
 Each house needs 1 printed in their colour (see [the README](./README.md#general-information) for the colours).
 
-- 1 [supply token](./3d-printing/supply-token.stl)
+- 1 [supply token](./3d-printing/other/supply-token.stl)
 
 ### Victory Point Tokens
 
 Each house needs 1 printed in their colour (see [the README](./README.md#general-information) for the colours).
 
-- 1 [victory point token](./3d-printing/victory-point-token.stl)
+- 1 [victory point token](./3d-printing/other/victory-point-token.stl)
 
 ### Influence
 
