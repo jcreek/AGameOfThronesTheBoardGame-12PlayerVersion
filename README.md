@@ -58,8 +58,27 @@ Each House has its own colour:
 - Tyrell: Green (base game)
 - Martell: Orange (base game)
 - Targaryen: White
-- Night's Watch: Gunmetal
+- Night's Watch: Silver
 - House of Black and White: Marble
 - Blackfyre: Metallic Dark Red
 - Dothraki: Brown
 - Qarth: Purple
+
+## Materials Needed
+
+### 3D Printing
+
+If you are doing the 3D printing yourself you will need the following PLA filament colours:
+
+- Grey
+- Red
+- Yellow
+- Black
+- Green
+- Orange
+- White
+- Silver
+- Marble
+- Metallic Dark Red
+- Brown
+- Purple
