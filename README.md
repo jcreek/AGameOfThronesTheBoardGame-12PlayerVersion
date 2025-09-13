@@ -46,3 +46,20 @@ Here are some tips from the [original creator](https://www.reddit.com/r/boardgam
 > Just trust people to resolve the cards at the start of the round.
 >
 > Keeps the game around 90 minutes-2 hours.
+
+## General Information
+
+Each House has its own colour:
+
+- Stark: Grey (base game)
+- Lannister: Red (base game)
+- Baratheon: Yellow (base game)
+- Greyjoy: Black (base game)
+- Tyrell: Green (base game)
+- Martell: Orange (base game)
+- Targaryen: White
+- Night's Watch: Gunmetal
+- House of Black and White: Marble
+- Blackfyre: Metallic Dark Red
+- Dothraki: Brown
+- Qarth: Purple
