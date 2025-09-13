@@ -41,7 +41,16 @@ Each house needs 1 printed in their colour (see [the README](./README.md#general
 
 - 1 [victory point token](./3d-printing/other/victory-point-token.stl)
 
-### Influence
+### Order Tokens
+
+These have been provided for printing. My chosen approach was to 3d print blank tokens in the colour of each house, and then use printed stickers to add the symbols to one side.
+
+Each house needs 15 printed in their colour (see [the README](./README.md#general-information) for the colours).
+
+- 15 [Order Token](./3d-printing/other/order-token.stl)
+- 1 set of [Order Token Symbols](./printing/Order-Tokens-Faces.jpg) onto sticker paper, then cut out
+
+### Influence Tracks
 
 By changing the board the game is played on we lose the 'Influence' section, which needed updating to work with 12 players anyway. I have created three models based on the designs of the original creator, one for each of the Influence tracks.
 
