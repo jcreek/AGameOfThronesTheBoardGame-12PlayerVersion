@@ -59,3 +59,14 @@ By changing the board the game is played on we lose the 'Influence' section, whi
 3. [Influence Track 3](./3d-printing/influence/board-3.stl)
 
 You will need to print one of each track.
+
+### Board
+
+You will need to print the custom board design, which has been split into four quadrants for easier printing. Each quadrant should be printed at the highest quality possible to ensure the best detail and appearance. Ideally print it onto A0 size paper or card.
+
+The quadrants are available in a [PDF](./printing/board/map_quadrants_A0.pdf) or as individual PNG files:
+
+1. [Top Left](./printing/board/part1_top_left.png)
+2. [Top Right](./printing/board/part1_top_right.png)
+3. [Bottom Left](./printing/board/part1_bottom_left.png)
+4. [Bottom Right](./printing/board/part1_bottom_right.png)
