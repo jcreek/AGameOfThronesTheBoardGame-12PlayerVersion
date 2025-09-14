@@ -67,6 +67,6 @@ You will need to print the custom board design, which has been split into four q
 The quadrants are available in a [PDF](./printing/board/map_quadrants_A0.pdf) or as individual PNG files:
 
 1. [Top Left](./printing/board/part1_top_left.png)
-2. [Top Right](./printing/board/part1_top_right.png)
-3. [Bottom Left](./printing/board/part1_bottom_left.png)
-4. [Bottom Right](./printing/board/part1_bottom_right.png)
+2. [Top Right](./printing/board/part2_top_right.png)
+3. [Bottom Left](./printing/board/part3_bottom_left.png)
+4. [Bottom Right](./printing/board/part4_bottom_right.png)
