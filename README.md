@@ -72,6 +72,10 @@ Any components that need to be created (either by 3D printing or other means) ar
 
 - 🟩 Rulebook
 - 🟥 Custom Game Board
+- 🟥 3D Printed Influence Track
+- 🟥 3D Printed Supply Track ??
+- 🟥 3D Printed Round Track ??
+- 🟥 3D Printed Victory Track ??
 - 🟩 138 Coloured Plastic Units consisting of:
   - 🟩 60 Footmen (10 per House x6)
   - 🟩 30 Knights (5 per House x6)
@@ -85,8 +89,8 @@ Any components that need to be created (either by 3D printing or other means) ar
 - 🟩 39 Large Cards consisting of:
   - 🟩 30 Westeros Cards
   - 🟩 9 Wildling Cards
-- 🟥 36 Custom Large Cards consisting of:
-  - 🟥 36 House Cards (6 per House x6)
+- 🟥 72 Custom Large Cards consisting of:
+  - 🟥 72 House Cards (6 per House x12) [5.7 cm x 8.9 cm (2.25" x 3.5")]
 - 🟩 24 Small Tides of Battle Cards
 - 🟩 2 Reference Sheets
 - 🟥 12 Custom House-specific Player Screens
