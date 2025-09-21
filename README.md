@@ -82,18 +82,14 @@ Any components that need to be created (either by 3D printing or other means) ar
   - 🟥 30 Knights (5 per House x6)
   - 🟥 36 Ships (6 per House x6)
   - 🟥 12 Siege Engines (2 per House x6)
-- 🟩 81 Large Cards consisting of:
-  - 🟩 42 House Cards (7 per House x6)
+- 🟩 39 Large Cards consisting of:
   - 🟩 30 Westeros Cards
   - 🟩 9 Wildling Cards
-- 🟥 ?? Custom Large Cards consisting of: (to do)
-  - 🟥 42 House Cards (7 per House x6)
-  - 🟥 30 Westeros Cards
-  - 🟥 9 Wildling Cards
+- 🟥 36 Custom Large Cards consisting of:
+  - 🟥 36 House Cards (6 per House x6)
 - 🟩 24 Small Tides of Battle Cards
 - 🟩 2 Reference Sheets
-- 🟩 6 House-specific Player Screens
-- 🟥 6 Custom House-specific Player Screens
+- 🟥 12 Custom House-specific Player Screens
 - 🟩 266 Cardboard Tokens consisting of:
   - 🟩 90 Order Tokens (15 per House x6)
   - 🟩 120 Power Tokens (20 per House x6)
@@ -108,7 +104,7 @@ Any components that need to be created (either by 3D printing or other means) ar
   - 🟩 1 Game Round Marker
   - 🟩 1 Wildling Threat Token
   - 🟩 1 King's Court Overlay (redundant if playing with more than 4 players)
-- 🟥 ?? Custom Tokens consisting of:
+- 🟥 246 Custom Tokens consisting of:
   - 🟥 90 Order Tokens (15 per House x6)
   - 🟥 120 Power Tokens (20 per House x6)
   - 🟥 18 Influence Tokens (3 per House x6)
