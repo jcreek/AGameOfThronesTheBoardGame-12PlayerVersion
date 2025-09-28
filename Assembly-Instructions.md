@@ -60,13 +60,17 @@ By changing the board the game is played on we lose the 'Influence' section, whi
 
 You will need to print one of each track.
 
+## Printing
+
 ### Board
 
-You will need to print the custom board design, which has been split into four quadrants for easier printing. Each quadrant should be printed at the highest quality possible to ensure the best detail and appearance. Ideally print it onto A0 size paper or card.
+You will need to print the custom board design, which has been split into two halves for easier printing. Each half should be printed at the highest quality possible to ensure the best detail and appearance. Ideally print it onto A0 size paper or card.
 
-The quadrants are available in a [PDF](./printing/board/map_quadrants_A0.pdf) or as individual PNG files:
+The halves are available as individual PNG files:
 
-1. [Top Left](./printing/board/part1_top_left.png)
-2. [Top Right](./printing/board/part2_top_right.png)
-3. [Bottom Left](./printing/board/part3_bottom_left.png)
-4. [Bottom Right](./printing/board/part4_bottom_right.png)
+1. [Left](./printing/board/print-on-2-A0-pages-portrait/map_left.png)
+2. [Right](./printing/board/print-on-2-A0-pages-portrait/map_right.png)
+
+I was able to find a local professional printer who printed these onto paper for around £50 in total for two A0 prints.
+
+> ⚠️ **N.B.:** The original creator's instructions say to print the board across FOUR A0 pages. Do _not_ do this as it will be far too large, as well as incredibly expensive.
