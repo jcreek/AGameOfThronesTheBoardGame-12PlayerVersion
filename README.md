@@ -71,7 +71,7 @@ Any components already included in the base game that can be re-used for this cu
 Any components that need to be created (either by 3D printing or other means) are marked with a 🟥.
 
 - 🟩 Rulebook
-- 🟥 Custom Game Board
+- 🟥 Custom Game Board [two A0 prints]
 - 🟥 3D Printed Influence Track
 - 🟥 3D Printed Supply Track ??
 - 🟥 3D Printed Round Track ??
@@ -93,7 +93,7 @@ Any components that need to be created (either by 3D printing or other means) ar
   - 🟥 72 House Cards (6 per House x12) [5.7 cm x 8.9 cm (2.25" x 3.5")]
 - 🟩 24 Small Tides of Battle Cards
 - 🟩 2 Reference Sheets
-- 🟥 12 Custom House-specific Player Screens
+- 🟥 12 Custom House-specific Player Screens [12 A4 prints]
 - 🟩 266 Cardboard Tokens consisting of:
   - 🟩 90 Order Tokens (15 per House x6)
   - 🟩 120 Power Tokens (20 per House x6)

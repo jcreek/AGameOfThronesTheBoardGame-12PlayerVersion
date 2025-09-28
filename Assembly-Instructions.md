@@ -74,3 +74,13 @@ The halves are available as individual PNG files:
 I was able to find a local professional printer who printed these onto paper for around £50 in total for two A0 prints.
 
 > ⚠️ **N.B.:** The original creator's instructions say to print the board across FOUR A0 pages. Do _not_ do this as it will be far too large, as well as incredibly expensive.
+
+### House Cards
+
+In some areas you may be able to get these printed professionally. When I tried they refused under copyright grounds, so I ended up printing them myself on a colour laser printer onto sticker paper, then applying them to A4 card at 280gsm.
+
+If you are able to find a professional printer who can print these for you, you can send them the images in [the `house-cards` folder](./printing/house-cards/). If not, then print [this PDF](./printing/house-cards.pdf), which contains all the cards fronts and backs for all houses.
+
+### Player Screens
+
+These have been custom-made (by the Groom himself!) as there were none included in the original mod. They are designed to help keep each player's information hidden from the others, while still being easy to read and use. There's a single [PDF](./printing/player-screens.pdf) that contains one screen per player. I printed these onto paper, then stuck them on card.
